@@ -1,1 +1,1 @@
-PyPI version Python version Documentation Code Style License: MIT
+[![Python version](https://img.shields.io/pypi/pyversions/binance-connector)](https://www.python.org/downloads/)
