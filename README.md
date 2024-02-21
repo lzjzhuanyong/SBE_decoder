@@ -1,1 +1,1 @@
-Python 3.8.2 or above
+PyPI version Python version Documentation Code Style License: MIT
